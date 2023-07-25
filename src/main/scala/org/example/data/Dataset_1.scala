@@ -40,7 +40,7 @@ class Dataset_1{
     for (i <- 1 to attribute_len){
       val randomInt: Int = rand.nextInt(10)+1
 //      attributes = attributes :+ rand.alphanumeric.take(randomInt).mkString
-      attributes += (rand.alphanumeric.take(randomInt).mkString + "\t")
+      attributes += (rand.alphanumeric.take(randomInt).mkString + ",")
     }
     attributes
   }
