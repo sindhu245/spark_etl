@@ -15,6 +15,8 @@ class Transform {
 
       val dataset_3 = dataset_1.groupBy("genre").agg(avg(size(split(col("attributes"),"\t"))-1) as "avgAttributeCount", (sum(when(col("expiry")>current_time,0).otherwise(1))/count(col("expiry")>current_time))*100 as "percentageOfExpiredTags", avg(col("price")) as "avgCost")
       val finaData:DataFrame = dataset_3.join(dataset_2, dataset_3("genre") === dataset_2("genreId"), "inner")
-      finaData
+      val finaDataWithTime = finaData.withColumn("creationTimeStamp",current_timestamp())
+
+      finaDataWithTime
     }
 }

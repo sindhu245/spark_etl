@@ -1,7 +1,8 @@
+package org.example
+
 import org.apache.spark.sql.DataFrame
-import org.example.Driver
-import org.example.data.loadData
-import org.example.transform.Transform
+import data.loadData
+import transform.Transform
 
 class sparkEtl extends Driver {
     override def load(): List[DataFrame] = {
@@ -19,14 +20,13 @@ class sparkEtl extends Driver {
 
     override def write(finalDataset:DataFrame): Unit = {
         println("write func")
-        val loadObj = new loadData()
-        loadObj.writeDataframe(finalDataset, "finalDataset")
+//        val loadObj = new loadData()
+//        loadObj.writeDataframe(finalDataset, "finalDataset")
         finalDataset.show()
     }
 }
 
-object Main{
-
+object SampleETL{
     def main(args: Array[String]): Unit = {
         val sparkEtl = new sparkEtl()
         val dataFrames: List[DataFrame] = sparkEtl.load()

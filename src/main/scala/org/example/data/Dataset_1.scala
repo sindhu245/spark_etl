@@ -1,6 +1,7 @@
 package org.example.data
 
 import org.apache.spark.sql.{DataFrame, SparkSession}
+import org.example.wordCount.wordCount.sp
 
 import java.sql.Timestamp
 import java.time.{LocalDateTime, ZoneId}
@@ -10,6 +11,7 @@ import scala.collection.mutable.ListBuffer
 class Dataset_1{
   val rand = new scala.util.Random;
   val sp = SparkSession.builder().appName("spark-ETL").master("local[*]").getOrCreate()
+  sp.sparkContext.setLogLevel("ERROR")
   import sp.implicits._
 
   def getDataset1(schema: Seq[String]): DataFrame= {

@@ -1,11 +1,9 @@
 package org.example.data
 
-import org.apache.spark.sql.functions.sum
-import java.sql.Timestamp
-import java.text.SimpleDateFormat
 import java.time.LocalDateTime
 
 object Temp extends App{
+
 //for(i <- 1 to 10) {
 //  var current_time = System.currentTimeMillis()
 //  //  println(new )
@@ -37,12 +35,12 @@ object Temp extends App{
   val nextyear = LocalDateTime.now.plusYears(2)
   println(LocalDateTime.parse(nextyear.toString).isAfter(cDateTime))
 
-
-  val ctimestamp = Timestamp.valueOf(cDateTime)
-  val nextTime = Timestamp.valueOf(nextyear)
-//  println(nextTime-ctimestamp)
-println(LocalDateTime.now)
-  println(Timestamp.valueOf(nextyear))
+//
+//  val ctimestamp = Timestamp.valueOf(cDateTime)
+//  val nextTime = Timestamp.valueOf(nextyear)
+////  println(nextTime-ctimestamp)
+//println(LocalDateTime.now)
+//  println(Timestamp.valueOf(nextyear))
 
 
 
