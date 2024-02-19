@@ -1,7 +1,8 @@
 package org.example.transform
 
-import org.apache.spark.sql.DataFrame
+import org.apache.spark.sql.{Column, DataFrame}
 import org.apache.spark.sql.functions._
+
 import java.time.LocalDateTime
 
 class Transform {

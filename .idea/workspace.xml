@@ -10,12 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f27bf0-db1e-40cd-957b-e501f446f970" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spark_etl_jar/spark-etl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/example/SampleETL.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/example/SampleETL.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/example/data/Temp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/example/data/Temp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/example/data/loadData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/example/data/loadData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/example/transform/Transform.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/example/transform/Transform.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,6 +44,7 @@
   </component>
   <component name="ProjectId" id="2T2waMpmNyuQQ4RJE1GPFaAZz6W" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -49,14 +57,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.16545013&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.49873418&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SampleETL">
+  <component name="RunManager" selected="Application.csv_read_check">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="spark-etl" />
@@ -90,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="csv_read_check" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.testing.csv_read_check" />
+      <module name="spark-etl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="wordCount" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="org.example.wordCount.wordCount" />
       <module name="spark-etl" />
@@ -105,8 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SampleETL" />
+        <item itemvalue="Application.csv_read_check" />
         <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.SampleETL" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.wordCount" />
       </list>
@@ -129,6 +151,21 @@
       <workItem from="1690569111582" duration="1073000" />
       <workItem from="1690697728473" duration="1391000" />
       <workItem from="1690699266935" duration="415000" />
+      <workItem from="1690905316703" duration="609000" />
+      <workItem from="1691400195091" duration="932000" />
+      <workItem from="1692969412067" duration="1152000" />
+      <workItem from="1693120516547" duration="1661000" />
+      <workItem from="1693668662796" duration="1487000" />
+      <workItem from="1693687393641" duration="1000" />
+      <workItem from="1694780823789" duration="1861000" />
+      <workItem from="1696497927734" duration="1967000" />
+      <workItem from="1702917638267" duration="1363000" />
+      <workItem from="1703128654164" duration="632000" />
+      <workItem from="1703139413234" duration="53000" />
+      <workItem from="1703218067453" duration="191000" />
+      <workItem from="1706863806984" duration="7227000" />
+      <workItem from="1707480487953" duration="1218000" />
+      <workItem from="1708319119863" duration="598000" />
     </task>
     <servers />
   </component>

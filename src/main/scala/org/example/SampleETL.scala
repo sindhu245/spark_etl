@@ -22,7 +22,7 @@ class sparkEtl extends Driver {
         println("write func")
 //        val loadObj = new loadData()
 //        loadObj.writeDataframe(finalDataset, "finalDataset")
-        finalDataset.show()
+        finalDataset.show(500)
     }
 }
 
