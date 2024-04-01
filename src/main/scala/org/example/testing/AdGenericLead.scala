@@ -12,7 +12,7 @@ import org.apache.spark.sql.{DataFrame, SaveMode, SparkSession}
 import org.apache.spark.storage.StorageLevel
 
 class AdGenericLead(spark:SparkSession){
-  val cteJson = "/Users/sindhu.patchipulusu/IdeaProjects/spark-etl/src/main/scala/org/example/testing/cte.json/"
+  val cteJson = "/Users/sindhupatchipulusu/IdeaProjects/spark_ETL/src/main/scala/org/example/testing/cte.json/"
   def load(): DataFrame={
     spark.read.json(cteJson)
   }
@@ -40,10 +40,10 @@ class AdGenericLead(spark:SparkSession){
         decodedDf.show()
 
         //internal
-        val internalPath = "/Users/sindhu.patchipulusu/IdeaProjects/spark-etl/src/main/scala/org/example/testing/internal/" + "advertiser=" + advertiserName + "/ad_id=" + adId
+        val internalPath = "/Users/sindhupatchipulusu/IdeaProjects/spark_ETL/src/main/scala/org/example/testing/internal/" + "advertiser=" + advertiserName + "/ad_id=" + adId
         write(decodedDf, internalPath, "internal", cd, hr)
 
-        val outputPath = "/Users/sindhu.patchipulusu/IdeaProjects/spark-etl/src/main/scala/org/example/testing/output/" + "advertiser=" + advertiserName + "/ad_id=" + adId
+        val outputPath = "/Users/sindhupatchipulusu/IdeaProjects/spark_ETL/src/main/scala/org/example/testing/output/" + "advertiser=" + advertiserName + "/ad_id=" + adId
         val data = getDatafromInternalBucket(advertiser_list(0), advertiser_list(1), cd)
         data.show()
         write(data, outputPath, "external", cd, hr)
@@ -92,7 +92,7 @@ class AdGenericLead(spark:SparkSession){
 
   def getDatafromInternalBucket(advertiserName: String, adId: String, cd: String): DataFrame={
 //    val partitionPath = "advertiser=" + advertiserName + "/ad_id=" + adId + "/cd="+ System.getProperty("cd")
-    val internalPath = "/Users/sindhu.patchipulusu/IdeaProjects/spark-etl/src/main/scala/org/example/testing/internal/" + "advertiser=" + advertiserName + "/ad_id=" + adId
+    val internalPath = "/Users/sindhupatchipulusu/IdeaProjects/spark_ETL/src/main/scala/org/example/testing/internal/" + "advertiser=" + advertiserName + "/ad_id=" + adId
 //    val schema: Schema = Schema("\"adId\",\"advertiserName\",\"loginStatus\",\"created_on\",\"foods_intersted\",\"phone_number\",\"email\",\"city\",\"state\",\"hr\"")
     spark.read.option("header", true).csv(internalPath)
   }
