@@ -1,0 +1,451 @@
+States,city,citygroup,Source
+Uttar Pradesh,Agra,Agra,JC - Cohort service
+Gujarat,Adalaj,Ahmedabad,JC - Cohort service
+Gujarat,Ahmedabad,Ahmedabad,JC - Cohort service
+Gujarat,Bareja,Ahmedabad,JC - Cohort service
+Gujarat,Dholka,Ahmedabad,JC - Cohort service
+Gujarat,Gadha,Ahmedabad,JC - Cohort service
+Gujarat,Gandhinagar,Ahmedabad,JC - Cohort service
+Gujarat,Naroda,Ahmedabad,JC - Cohort service
+Gujarat,Sanand,Ahmedabad,JC - Cohort service
+Gujarat,Shyamji Krishna Varma Nagar,Ahmedabad,JC - Cohort service
+Gujarat,Vejalpur,Ahmedabad,JC - Cohort service
+Gujarat,SabarmatiTaluka,Ahmedabad,JC - Cohort service
+Gujarat,Navrangpura,Ahmedabad,JC - Cohort service
+Uttar Pradesh,Allahabad,Allahabad,JC - Cohort service
+Uttar Pradesh,Kareli,Allahabad,JC - Cohort service
+Uttar Pradesh,Naini,Allahabad,JC - Cohort service
+Uttar Pradesh,Katra,Allahabad,JC - Cohort service
+Uttar Pradesh,Prayagraj,Allahabad,JC - Cohort service
+Punjab,Amritsar,Amritsar,JC - Cohort service
+Punjab,Tarn Taran,Amritsar,Quantum
+Bihar,Aurangabad,Aurangabad,JC - Cohort service
+Bihar,Chitegaon,Aurangabad,JC - Cohort service
+Bihar,Sillod,Aurangabad,JC - Cohort service
+Bihar,Vaijapur,Aurangabad,JC - Cohort service
+Karnataka,Anekal,Bangalore,JC - Cohort service
+Karnataka,Bangalore,Bangalore,JC - Cohort service
+Karnataka,Sarjapur,Bangalore,JC - Cohort service
+Karnataka,Whitefield,Bangalore,JC - Cohort service
+Karnataka,Yelahanka,Bangalore,JC - Cohort service
+Karnataka,Kengeri,Bangalore,JC - Cohort service
+Karnataka,Bengaluru,Bangalore,JC - Cohort service
+Karnataka,Basavanagudi,Bangalore,Quantum
+Karnataka,Channapatna,Bangalore,Quantum
+Karnataka,Jayanagar,Bangalore,Quantum
+Karnataka,Rajajinagar,Bangalore,Quantum
+Madhya Pradesh,Bhopal,Bhopal,JC - Cohort service
+Odisha,Bhubaneswar,Bhubaneswar,JC - Cohort service
+Odisha,Bhubaneswar Municipal Corporation,Bhubaneswar,JC - Cohort service
+Odisha,Khurda,Bhubaneswar,Quantum
+Odisha,Cuttack,Bhubaneswar,Quantum
+Odisha,Jagatsinghpur,Bhubaneswar,Quantum
+Odisha,Khorda,Bhubaneswar,Quantum
+Odisha,khordha,Bhubaneswar,Quantum
+Odisha,Puri,Bhubaneswar,Quantum
+Tamil Nadu,Adambakkam,Chennai,JC - Cohort service
+Tamil Nadu,Adyar,Chennai,JC - Cohort service
+Tamil Nadu,Alandur,Chennai,JC - Cohort service
+Tamil Nadu,Ambattur,Chennai,JC - Cohort service
+Tamil Nadu,Chengalpattu,Chennai,JC - Cohort service
+Tamil Nadu,Chennai,Chennai,JC - Cohort service
+Tamil Nadu,Chromepet,Chennai,JC - Cohort service
+Tamil Nadu,Kilpauk,Chennai,JC - Cohort service
+Tamil Nadu,Kodambakkam,Chennai,JC - Cohort service
+Tamil Nadu,Madipakkam,Chennai,JC - Cohort service
+Tamil Nadu,Mylapore,Chennai,JC - Cohort service
+Tamil Nadu,Nungambakkam,Chennai,JC - Cohort service
+Tamil Nadu,Perambur,Chennai,JC - Cohort service
+Tamil Nadu,Perungudi,Chennai,JC - Cohort service
+Tamil Nadu,Porur,Chennai,JC - Cohort service
+Tamil Nadu,Royapettah,Chennai,JC - Cohort service
+Tamil Nadu,Saidapet,Chennai,JC - Cohort service
+Tamil Nadu,Sriperumbudur,Chennai,JC - Cohort service
+Tamil Nadu,Tambaram,Chennai,JC - Cohort service
+Tamil Nadu,Teynampet,Chennai,JC - Cohort service
+Tamil Nadu,Vadapalani,Chennai,JC - Cohort service
+Tamil Nadu,Chetput,Chennai,JC - Cohort service
+Tamil Nadu,Choolai,Chennai,JC - Cohort service
+Tamil Nadu,Kanchipuram,Chennai,JC - Cohort service
+Tamil Nadu,Pallavaram,Chennai,JC - Cohort service
+Tamil Nadu,Tiruvottiyur,Chennai,JC - Cohort service
+Tamil Nadu,Villivakkam,Chennai,JC - Cohort service
+Tamil Nadu,Virugambakkam,Chennai,JC - Cohort service
+Tamil Nadu,Avadi,Chennai,Hotstar
+Tamil Nadu,Pudur,Chennai,Hotstar
+Tamil Nadu,Ponneri,Chennai,Hotstar
+Tamil Nadu,Poonamallee,Chennai,Hotstar
+Tamil Nadu,Gummidipundi,Chennai,Hotstar
+Tamil Nadu,Vandalur,Chennai,Hotstar
+Tamil Nadu,Tiruvallur,Chennai,Hotstar
+Tamil Nadu,Navalur,Chennai,Hotstar
+Tamil Nadu,Irugur,Coimbatore,JC - Cohort service
+Tamil Nadu,Singanallur,Coimbatore,JC - Cohort service
+Tamil Nadu,Annur,Coimbatore,JC - Cohort service
+Tamil Nadu,Coimbatore,Coimbatore,JC - Cohort service
+Tamil Nadu,Madukkarai,Coimbatore,JC - Cohort service
+Tamil Nadu,Mettupalayam,Coimbatore,JC - Cohort service
+Tamil Nadu,Pollachi,Coimbatore,JC - Cohort service
+Tamil Nadu,Sulur,Coimbatore,JC - Cohort service
+Tamil Nadu,Tirupur,Coimbatore,JC - Cohort service
+Tamil Nadu,Valparai,Coimbatore,JC - Cohort service
+Tamil Nadu,Coimbatore South,Coimbatore,JC - Cohort service
+Tamil Nadu,Dharapuram,Coimbatore,Quantum
+Tamil Nadu,udumalaipettai,Coimbatore,Quantum
+Uttarakhand,Dehradun,Dehradun,JC - Cohort service
+Uttarakhand,Roorkee,Dehradun,Quantum
+National Capital Territory of Delhi,Badarpur,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Alipur,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Badarpur,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Bawana,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Ballabgarh,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Ambedkar Nagar,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Dasna,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Kaushambi,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Loni,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Sahibabad,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Kasan,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Khandsa,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Manesar,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Chattarpur,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Connaught Place,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Darya Ganj,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Delhi,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Jharoda Kalan,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Kalkaji,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Karol Bagh,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Mehrauli,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Najafgarh,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Narela,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,New Delhi,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Samalkha,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Shahdara,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Bhiwani,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Faridabad City,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Gurgaon,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Murthal,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Sector 20,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Sector 4,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Sector 8,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Sector-12,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Sector-15,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Ghaziabad,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Greater Noida,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Noida,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,New Delhi District,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Gurugram District,Delhi-NCR,JC - Cohort service
+National Capital Territory of Delhi,Jhilmil,Delhi-NCR,Quantum
+National Capital Territory of Delhi,Bahadurgarh,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Baghpat,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Dadri,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Khekra,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Sohna,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Jhajjar,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Sampla,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Gautam Buddha Nagar,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Sonipat,Delhi-NCR,Hotstar
+National Capital Territory of Delhi,Sikandrabad,Delhi-NCR,Hotstar
+Assam,Amerigog,Guwahati,JC - Cohort service
+Assam,Amingaon,Guwahati,JC - Cohort service
+Assam,Assam Sachivalaya,Guwahati,JC - Cohort service
+Assam,Bamunimaidan,Guwahati,JC - Cohort service
+Assam,Bharalumukh,Guwahati,JC - Cohort service
+Assam,Debgotanagar,Guwahati,JC - Cohort service
+Assam,Hengrabari,Guwahati,JC - Cohort service
+Assam,Kahilipara,Guwahati,JC - Cohort service
+Assam,Kamakhya,Guwahati,JC - Cohort service
+Assam,Kharguli,Guwahati,JC - Cohort service
+Assam,Lachitnagar,Guwahati,JC - Cohort service
+Assam,Noonmati,Guwahati,JC - Cohort service
+Assam,Odalbakra,Guwahati,JC - Cohort service
+Assam,Paltanbazar,Guwahati,JC - Cohort service
+Assam,Pandu,Guwahati,JC - Cohort service
+Assam,Patharquerry,Guwahati,JC - Cohort service
+Assam,Beltola,Guwahati,JC - Cohort service
+Assam,Dispur,Guwahati,JC - Cohort service
+Assam,Guwahati,Guwahati,JC - Cohort service
+Assam,Hatigaon Chariali,Guwahati,JC - Cohort service
+Assam,Khanapara,Guwahati,JC - Cohort service
+Assam,Panjabari,Guwahati,JC - Cohort service
+Telangana,Allembylines,Hyderabad,JC - Cohort service
+Telangana,Patancheru,Hyderabad,JC - Cohort service
+Telangana,Vikasnagar,Hyderabad,JC - Cohort service
+Telangana,Adibatla,Hyderabad,JC - Cohort service
+Telangana,Adraspalli,Hyderabad,JC - Cohort service
+Telangana,Agapalli,Hyderabad,JC - Cohort service
+Telangana,Akulamailaram,Hyderabad,JC - Cohort service
+Telangana,Allapur,Hyderabad,JC - Cohort service
+Telangana,Alwal,Hyderabad,JC - Cohort service
+Telangana,Anandbagh,Hyderabad,JC - Cohort service
+Telangana,Balanagar,Hyderabad,JC - Cohort service
+Telangana,Balanagar Township,Hyderabad,JC - Cohort service
+Telangana,Begampet,Hyderabad,JC - Cohort service
+Telangana,Bowenpally,Hyderabad,JC - Cohort service
+Telangana,Chandanagar,Hyderabad,JC - Cohort service
+Telangana,Gachibowli,Hyderabad,JC - Cohort service
+Telangana,Gandipet,Hyderabad,JC - Cohort service
+Telangana,Gangaram,Hyderabad,JC - Cohort service
+Telangana,HMT Township,Hyderabad,JC - Cohort service
+Telangana,Hyderabad,Hyderabad,JC - Cohort service
+Telangana,IDA Jeedimetla,Hyderabad,JC - Cohort service
+Telangana,Koheda,Hyderabad,JC - Cohort service
+Telangana,Kondapur,Hyderabad,JC - Cohort service
+Telangana,Kothapet,Hyderabad,JC - Cohort service
+Telangana,Kukatpally,Hyderabad,JC - Cohort service
+Telangana,Manovikasnagar,Hyderabad,JC - Cohort service
+Telangana,Miyapur,Hyderabad,JC - Cohort service
+Telangana,Neredmet,Hyderabad,JC - Cohort service
+Telangana,Nizampet,Hyderabad,JC - Cohort service
+Telangana,Sainikpuri,Hyderabad,JC - Cohort service
+Telangana,Secunderabad,Hyderabad,JC - Cohort service
+Telangana,Trimulgherry,Hyderabad,JC - Cohort service
+Telangana,Uppal,Hyderabad,JC - Cohort service
+Telangana,Venkatagiri,Hyderabad,JC - Cohort service
+Telangana,Khairatabad,Hyderabad,Quantum
+Telangana,Vikarabad,Hyderabad,Quantum
+Telangana,Medchal,Hyderabad,Hotstar
+Telangana,Narsapur,Hyderabad,Hotstar
+Telangana,Mahbubnagar,Hyderabad,Hotstar
+Telangana,Bhongir,Hyderabad,Hotstar
+Telangana,Gudur,Hyderabad,Hotstar
+Telangana,Jangaon,Hyderabad,Hotstar
+Telangana,Medak,Hyderabad,Hotstar
+Telangana,Siddipet,Hyderabad,Hotstar
+Telangana,Shadnagar,Hyderabad,Hotstar
+Telangana,Annaram,Hyderabad,Hotstar
+Telangana,Nisa Hakimpet,Hyderabad,Hotstar
+Madhya Pradesh,Depalpur,Indore,JC - Cohort service
+Madhya Pradesh,Indore,Indore,JC - Cohort service
+Madhya Pradesh,Mhow,Indore,JC - Cohort service
+Madhya Pradesh,Sanwer,Indore,JC - Cohort service
+Rajasthan,Amer,Jaipur,JC - Cohort service
+Rajasthan,Bassi,Jaipur,JC - Cohort service
+Rajasthan,Boraj,Jaipur,JC - Cohort service
+Rajasthan,Govindgarh,Jaipur,JC - Cohort service
+Rajasthan,Jaipur,Jaipur,JC - Cohort service
+Rajasthan,Naraina,Jaipur,JC - Cohort service
+Rajasthan,Samod,Jaipur,JC - Cohort service
+Rajasthan,Dausa,Jaipur,Quantum
+Rajasthan,Jawahar Nagar,Jaipur,Quantum
+Rajasthan,Shahpura,Jaipur,Quantum
+Rajasthan,Shastri Nagar,Jaipur,Quantum
+Uttar Pradesh,Kanpur,Kanpur,JC - Cohort service
+Uttar Pradesh,Unnao,Kanpur,Quantum
+Uttar Pradesh,Nawabganj,Kanpur,Quantum
+Kerala,Aluva,Kochi,JC - Cohort service
+Kerala,Cherthala,Kochi,JC - Cohort service
+Kerala,Edayar,Kochi,JC - Cohort service
+Kerala,Ernakulam,Kochi,JC - Cohort service
+Kerala,Kalady,Kochi,JC - Cohort service
+Kerala,Kochi,Kochi,JC - Cohort service
+Kerala,Kodungallur,Kochi,JC - Cohort service
+Kerala,Kothamangalam,Kochi,JC - Cohort service
+Kerala,Mala,Kochi,JC - Cohort service
+Kerala,Piravom,Kochi,JC - Cohort service
+Kerala,Thodupuzha,Kochi,JC - Cohort service
+Kerala,Vazhakulam,Kochi,JC - Cohort service
+Kerala,Vennikulam,Kochi,JC - Cohort service
+West Bengal,Bediadanga,Kolkata,JC - Cohort service
+West Bengal,Brahmapur,Kolkata,JC - Cohort service
+West Bengal,Alipore,Kolkata,JC - Cohort service
+West Bengal,Amtala,Kolkata,JC - Cohort service
+West Bengal,Bally,Kolkata,JC - Cohort service
+West Bengal,Bangur Avenue,Kolkata,JC - Cohort service
+West Bengal,Bansdroni,Kolkata,JC - Cohort service
+West Bengal,Barasat,Kolkata,JC - Cohort service
+West Bengal,Barrackpore,Kolkata,JC - Cohort service
+West Bengal,Barrackpore RS,Kolkata,JC - Cohort service
+West Bengal,Baruipur,Kolkata,JC - Cohort service
+West Bengal,Behala,Kolkata,JC - Cohort service
+West Bengal,Belgharia,Kolkata,JC - Cohort service
+West Bengal,Bidhannagar,Kolkata,JC - Cohort service
+West Bengal,Boral,Kolkata,JC - Cohort service
+West Bengal,Calcutta,Kolkata,JC - Cohort service
+West Bengal,Garden Reach,Kolkata,JC - Cohort service
+West Bengal,Garia,Kolkata,JC - Cohort service
+West Bengal,Garia Garden,Kolkata,JC - Cohort service
+West Bengal,Hatiara,Kolkata,JC - Cohort service
+West Bengal,Howrah,Kolkata,JC - Cohort service
+West Bengal,Ichapur,Kolkata,JC - Cohort service
+West Bengal,Kalindi,Kolkata,JC - Cohort service
+West Bengal,Kasba,Kolkata,JC - Cohort service
+West Bengal,New Town,Kolkata,JC - Cohort service
+West Bengal,Santosh Pur,Kolkata,JC - Cohort service
+West Bengal,Tollygunge,Kolkata,JC - Cohort service
+West Bengal,Vip Nagar,Kolkata,JC - Cohort service
+West Bengal,Kolkata,Kolkata,JC - Cohort service
+West Bengal,Barabazar,Kolkata,Quantum
+West Bengal,Tollygunge,Kolkata,Quantum
+West Bengal,Kamarhati,Kolkata,Hotstar
+West Bengal,Baranagar,Kolkata,Hotstar
+West Bengal,Bankra,Kolkata,Hotstar
+West Bengal,Hooghly,Kolkata,Hotstar
+West Bengal,Konnagar,Kolkata,Hotstar
+West Bengal,Uttarpara,Kolkata,Hotstar
+West Bengal,Rajarhat Gopalpur,Kolkata,Hotstar
+West Bengal,Uluberia,Kolkata,Hotstar
+West Bengal,Bankra,Kolkata,Hotstar
+West Bengal,Krishnapur,Kolkata,Hotstar
+West Bengal,Srirampur,Kolkata,Hotstar
+West Bengal,Dhapa,Kolkata,Hotstar
+West Bengal,Chakpanchuria,Kolkata,Hotstar
+West Bengal,Begampur,Kolkata,Hotstar
+West Bengal,Michealnagar,Kolkata,Hotstar
+West Bengal,Naihati,Kolkata,Hotstar
+West Bengal,Haripal,Kolkata,Hotstar
+West Bengal,Hasnabad,Kolkata,Hotstar
+West Bengal,Sultanganj,Kolkata,Hotstar
+West Bengal,Shyamnagar,Kolkata,Hotstar
+West Bengal,Korachandigarh,Kolkata,Hotstar
+West Bengal,Ganganagar,Kolkata,Hotstar
+West Bengal,Subhas Gram,Kolkata,Hotstar
+West Bengal,Halishahar,Kolkata,Hotstar
+West Bengal,Chandannagar,Kolkata,Hotstar
+West Bengal,Abad Kuliadanga,Kolkata,Hotstar
+West Bengal,Sarada,Kolkata,Hotstar
+West Bengal,Chandra,Kolkata,Hotstar
+West Bengal,Kalyani,Kolkata,Hotstar
+West Bengal,Rishra,Kolkata,Hotstar
+West Bengal,Bagnan,Kolkata,Hotstar
+West Bengal,Hridaypur,Kolkata,Hotstar
+West Bengal,Habra,Kolkata,Hotstar
+West Bengal,Serampore,Kolkata,Hotstar
+West Bengal,Akanda Danga,Kolkata,Hotstar
+West Bengal,Baidyabati,Kolkata,Hotstar
+West Bengal,Madanpur,Kolkata,Hotstar
+West Bengal,Nimta,Kolkata,Hotstar
+Uttar Pradesh,Aliganj,Lucknow,JC - Cohort service
+Uttar Pradesh,Asharfa Bad,Lucknow,JC - Cohort service
+Uttar Pradesh,Ashraf Pur,Lucknow,JC - Cohort service
+Uttar Pradesh,Bakhira,Lucknow,JC - Cohort service
+Uttar Pradesh,Barabanki,Lucknow,JC - Cohort service
+Uttar Pradesh,Baragaon,Lucknow,JC - Cohort service
+Uttar Pradesh,Gauri Ibrahim,Lucknow,JC - Cohort service
+Uttar Pradesh,Lucknow,Lucknow,JC - Cohort service
+Uttar Pradesh,Maigal Ganj,Lucknow,JC - Cohort service
+Uttar Pradesh,Malihabad,Lucknow,JC - Cohort service
+Uttar Pradesh,Sandila,Lucknow,JC - Cohort service
+Uttar Pradesh,Sarauli,Lucknow,JC - Cohort service
+Punjab,Jagraon,Ludhiana,JC - Cohort service
+Punjab,Jassowal,Ludhiana,JC - Cohort service
+Punjab,Khanna,Ludhiana,JC - Cohort service
+Punjab,Ludhiana,Ludhiana,JC - Cohort service
+Punjab,Machhiwara,Ludhiana,JC - Cohort service
+Punjab,Samrala,Ludhiana,JC - Cohort service
+Punjab,Sangrur,Ludhiana,Quantum
+Tamil Nadu,Madurai,Madurai,JC - Cohort service
+Tamil Nadu,Periyakulam,Madurai,Quantum
+Tamil Nadu,Tallakulam,Madurai,Quantum
+Maharashtra,Colaba,Mumbai,JC - Cohort service
+Maharashtra,Juhu,Mumbai,JC - Cohort service
+Maharashtra,Kurla,Mumbai,JC - Cohort service
+Maharashtra,Sewri,Mumbai,JC - Cohort service
+Maharashtra,Sion,Mumbai,JC - Cohort service
+Maharashtra,Trombay,Mumbai,JC - Cohort service
+Maharashtra,Bandra West,Mumbai,JC - Cohort service
+Maharashtra,Belapur,Mumbai,JC - Cohort service
+Maharashtra,Bhiwadi,Mumbai,JC - Cohort service
+Maharashtra,Bhiwandi,Mumbai,JC - Cohort service
+Maharashtra,Boisar,Mumbai,JC - Cohort service
+Maharashtra,Dharavi,Mumbai,JC - Cohort service
+Maharashtra,Ghansoli,Mumbai,JC - Cohort service
+Maharashtra,Goregaon,Mumbai,JC - Cohort service
+Maharashtra,Kalyan City,Mumbai,JC - Cohort service
+Maharashtra,Madh,Mumbai,JC - Cohort service
+Maharashtra,Mahim,Mumbai,JC - Cohort service
+Maharashtra,Malad,Mumbai,JC - Cohort service
+Maharashtra,Mumbai,Mumbai,JC - Cohort service
+Maharashtra,Navi Mumbai,Mumbai,JC - Cohort service
+Maharashtra,Neral,Mumbai,JC - Cohort service
+Maharashtra,Panvel,Mumbai,JC - Cohort service
+Maharashtra,Parel,Mumbai,JC - Cohort service
+Maharashtra,Sanpada,Mumbai,JC - Cohort service
+Maharashtra,Tardeo,Mumbai,JC - Cohort service
+Maharashtra,Thane,Mumbai,JC - Cohort service
+Maharashtra,Vashi,Mumbai,JC - Cohort service
+Maharashtra,Vikhroli,Mumbai,JC - Cohort service
+Maharashtra,Virar,Mumbai,JC - Cohort service
+Maharashtra,Wadala,Mumbai,JC - Cohort service
+Maharashtra,Worli,Mumbai,JC - Cohort service
+Maharashtra,Andheri,Mumbai,JC - Cohort service
+Maharashtra,Thana,Mumbai,JC - Cohort service
+Maharashtra,Mumbai Suburban,Mumbai,JC - Cohort service
+Maharashtra,Borivali,Mumbai,Quantum
+Maharashtra,Chembur,Mumbai,Quantum
+Maharashtra,Dadar,Mumbai,Quantum
+Maharashtra,Palghar,Mumbai,Quantum
+Maharashtra,Ulhasnagar,Mumbai,Hotstar
+Maharashtra,Kalwa,Mumbai,Hotstar
+Maharashtra,Dahanu,Mumbai,Hotstar
+Maharashtra,Alibag,Mumbai,Hotstar
+Maharashtra,Khalapur,Mumbai,Hotstar
+Maharashtra,Adavale Budruk,Mumbai,Hotstar
+Maharashtra,Jaskhar,Mumbai,Hotstar
+Maharashtra,Karjat,Mumbai,Hotstar
+Maharashtra,Apta,Mumbai,Hotstar
+Maharashtra,Khopoli,Mumbai,Hotstar
+Maharashtra,Amtem,Mumbai,Hotstar
+Maharashtra,Kalmeshwar,Nagpur,JC - Cohort service
+Maharashtra,Kamthi,Nagpur,JC - Cohort service
+Maharashtra,Khapa,Nagpur,JC - Cohort service
+Maharashtra,Nagpur City,Nagpur,JC - Cohort service
+Maharashtra,Takalghat,Nagpur,JC - Cohort service
+Maharashtra,Umred,Nagpur,JC - Cohort service
+Maharashtra,Nashik,Nashik,JC - Cohort service
+Maharashtra,Malegaon,Nashik,Quantum
+Bihar,Bihta,Patna,JC - Cohort service
+Bihar,Patna,Patna,JC - Cohort service
+Maharashtra,Bhosarigoan,Pune,JC - Cohort service
+Maharashtra,Dapodi,Pune,JC - Cohort service
+Maharashtra,Dhanori,Pune,JC - Cohort service
+Maharashtra,Indrayaninagar,Pune,JC - Cohort service
+Maharashtra,Kalewadi,Pune,JC - Cohort service
+Maharashtra,Khadki,Pune,JC - Cohort service
+Maharashtra,Nehrunagar,Pune,JC - Cohort service
+Maharashtra,Pirangut,Pune,JC - Cohort service
+Maharashtra,Aundh,Pune,JC - Cohort service
+Maharashtra,Chinchwad,Pune,JC - Cohort service
+Maharashtra,Koregaon,Pune,JC - Cohort service
+Maharashtra,Koregaon Mul,Pune,JC - Cohort service
+Maharashtra,Pune,Pune,JC - Cohort service
+Maharashtra,Talegaon,Pune,JC - Cohort service
+Maharashtra,Talegaon Dabhade,Pune,JC - Cohort service
+Maharashtra,Pune City,Pune,JC - Cohort service
+Maharashtra,Alandi,Pune,Hotstar
+Maharashtra,Chakan,Pune,Hotstar
+Maharashtra,Loni Kalbhor,Pune,Hotstar
+Maharashtra,Pimple,Pune,Hotstar
+Maharashtra,Bhor,Pune,Hotstar
+Maharashtra,Jejuri,Pune,Hotstar
+Maharashtra,Rajgurunagar,Pune,Hotstar
+Maharashtra,Shirwal,Pune,Hotstar
+Maharashtra,Vadgaon,Pune,Hotstar
+Maharashtra,Manchar,Pune,Hotstar
+Maharashtra,Daund,Pune,Hotstar
+Jharkhand,Jagannathpur,Ranchi,JC - Cohort service
+Jharkhand,R.I.T,Ranchi,JC - Cohort service
+Jharkhand,Ranchi,Ranchi,JC - Cohort service
+Jharkhand,Namkum,Ranchi,JC - Cohort service
+Jharkhand,Daltonganj,Ranchi,Quantum
+Jharkhand,Doranda,Ranchi,Quantum
+Gujarat,Amroli,Surat,JC - Cohort service
+Gujarat,Bardoli,Surat,JC - Cohort service
+Gujarat,Bhimpor,Surat,JC - Cohort service
+Gujarat,Kosamba,Surat,JC - Cohort service
+Gujarat,Olpad,Surat,JC - Cohort service
+Gujarat,Rander,Surat,JC - Cohort service
+Gujarat,Sachin,Surat,JC - Cohort service
+Gujarat,Surat,Surat,JC - Cohort service
+Gujarat,Utran,Surat,JC - Cohort service
+Gujarat,Majura Taluka,Surat,JC - Cohort service
+Gujarat,Akota,Vadodara,JC - Cohort service
+Gujarat,Dabhoi,Vadodara,JC - Cohort service
+Gujarat,Desar,Vadodara,JC - Cohort service
+Gujarat,Padra,Vadodara,JC - Cohort service
+Gujarat,Vadodara,Vadodara,JC - Cohort service
+Gujarat,Bharuch,Vadodara,Quantum
+Uttar Pradesh,Varanasi,Varanasi,JC - Cohort service
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,JC - Cohort service
+Andhra Pradesh,Gajuwaka,Visakhapatnam,JC - Cohort service
+Andhra Pradesh,Anakapalle,Visakhapatnam,Quantum
+Andhra Pradesh,Narsipatnam,Visakhapatnam,Quantum

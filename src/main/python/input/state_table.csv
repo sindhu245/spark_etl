@@ -1,0 +1,41 @@
+"id","name","netacuity_id","targeting_tag","sirius_id","barc_region","zapr_name","tatasky_name","short_name"
+52001309,West Bengal,"1309",STATE_WB,35,West Bengal,West Bengal,West Bengal,WB
+52001320,Maharashtra,"1320",STATE_MH,21,Mah / Goa,Maharashtra,Maharashtra,MH
+52009992,Andaman And Nicobar Islands,"9992",STATE_AN,1,Others,Andaman and Nicobar Islands,,AN
+52009994,Andhra Pradesh,"9994",STATE_AP,2,AP / Telangana,Andhra Pradesh,Andhra Pradesh,AP
+52009997,Assam,"9997",STATE_AS,4,Assam / North East / Sikkim,Assam,Assam,AS
+52009998,Bihar,"9998",STATE_BR,5,Bihar/Jharkhand,Bihar,Bihar,BR
+52009999,Delhi,"9999",STATE_DL,10,Delhi,Delhi,Delhi / The Government of NCT,DL
+52010002,Gujarat,"10002",STATE_GJ,12,Guj / D&D / DNH,Gujarat,Gujarat,GJ
+52010008,Haryana,"10008",STATE_HR,13,Har/HP/J&K,Haryana,Haryana,HR
+52010011,Karnataka,"10011",STATE_KA,17,Karnataka,Karnataka,Karnataka,KA
+52010018,Kerala,"10018",STATE_KL,18,Kerala,Kerala,Kerala,KL
+52010026,Meghalaya,"10026",STATE_ML,23,Assam / North East / Sikkim,Meghalaya,Meghalaya,ML
+52010027,Madhya Pradesh,"10027",STATE_MP,20,MP/Chhattisgarh,Madhya Pradesh,Madhya Pradesh,MP
+52010030,Odisha,"10030",STATE_OR,26,Odisha,Orissa,Odisha / Orissa,OR
+52010031,Punjab,"10031",STATE_PB,28,Pun/Cha,Punjab,Punjab,PB
+52010034,Puducherry,"10034",STATE_PY,27,TN/Pondicherry,Puducherry,,PY
+52010035,Rajasthan,"10035",STATE_RJ,29,Rajasthan,Rajasthan,Rajasthan,RJ
+52010036,Tamil Nadu,"10036",STATE_TN,31,TN/Pondicherry,Tamil Nadu,Tamil Nadu,TN
+52010043,Tripura,"10043",STATE_TR,32,Assam / North East / Sikkim,Tripura,Tripura,TR
+52010044,Uttar Pradesh,"10044",STATE_UP,33,UP/Uttarakhand,Uttar Pradesh,Uttar Pradesh,UP
+52018194,Jammu And Kashmir,"18194",STATE_JK,15,Har/HP/J&K,Jammu and Kashmir,,JK
+52023819,Goa,"23819",STATE_GA,11,Mah / Goa,Goa,Goa,GA
+52023842,Arunachal Pradesh,"23842",STATE_AR,3,Assam / North East / Sikkim,Arunachal Pradesh,Arunachal Pradesh,AR
+52024520,Chandigarh,"24520",STATE_CH,6,Pun/Cha,Chandigarh,Chandigarh,CH
+52024787,Himachal Pradesh,"24787",STATE_HP,14,Har/HP/J&K,Himachal Pradesh,Himachal Pradesh,HP
+52024792,Nagaland,"24792",STATE_NL,25,Assam / North East / Sikkim,Nagaland,Nagaland,NL
+52024799,Daman And Diu,"24799",STATE_DD,9,Guj / D&D / DNH,,,DD
+52024800,Mizoram,"24800",STATE_MZ,24,Assam / North East / Sikkim,Mizoram,Mizoram,MZ
+52024801,Lakshadweep,"24801",STATE_LD,19,Others,,,LD
+52024802,Dadra And Nagar Haveli,"24802",STATE_DN,8,Guj / D&D / DNH,,,DH
+52024803,Manipur,"24803",STATE_MN,22,Assam / North East / Sikkim,Manipur,Manipur,MN
+52024804,Sikkim,"24804",STATE_SK,30,Assam / North East / Sikkim,Sikkim,Sikkim,SK
+52028057,Jharkhand,"28057",STATE_JH,16,Bihar/Jharkhand,Jharkhand,Jharkhand,JH
+52028058,Chhattisgarh,"28058",STATE_CT,7,MP/Chhattisgarh,Chhattisgarh,Chhattisgarh,CT
+52028102,Uttarakhand,"28102",STATE_UT,34,UP/Uttarakhand,Uttarakhand,Uttarakhand,UT
+52033962,Telangana,"33962",STATE_TG,36,AP / Telangana,Telangana,,TG
+52033963,Chhattisgarh v2,"28058",STATE_CG,7,MP/Chhattisgarh,Chhattisgarh,,CG
+52033964,Odisha v2,"10030",STATE_OD,26,Odisha,Orissa,,OD
+52033965,Telangana v2,"33962",STATE_TS,36,AP / Telangana,Telangana,,TS
+52033966,Uttarakhand v2,"28102",STATE_UK,34,UP/Uttarakhand,Uttarakhand,,UK

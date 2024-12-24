@@ -1,0 +1,44 @@
+,id,name,netacuity_id,targeting_tag,sirius_id,barc_region,zapr_name,tatasky_name,short_name,state_smaller_name,COUNTRY,REGION,REGION-CODE,check_code
+0,52009992.0,Andaman And Nicobar Islands,9992.0,STATE_AN,1.0,Others,Andaman and Nicobar Islands,,AN,andaman and nicobar islands,ind,an,9992.0,True
+1,52009994.0,Andhra Pradesh,9994.0,STATE_AP,2.0,AP / Telangana,Andhra Pradesh,Andhra Pradesh,AP,andhra pradesh,ind,ap,9994.0,True
+2,52023842.0,Arunachal Pradesh,23842.0,STATE_AR,3.0,Assam / North East / Sikkim,Arunachal Pradesh,Arunachal Pradesh,AR,arunachal pradesh,ind,ar,23842.0,True
+3,52009997.0,Assam,9997.0,STATE_AS,4.0,Assam / North East / Sikkim,Assam,Assam,AS,assam,ind,as,9997.0,True
+4,52009998.0,Bihar,9998.0,STATE_BR,5.0,Bihar/Jharkhand,Bihar,Bihar,BR,bihar,ind,br,9998.0,True
+5,52024520.0,Chandigarh,24520.0,STATE_CH,6.0,Pun/Cha,Chandigarh,Chandigarh,CH,chandigarh,ind,ch,24520.0,True
+6,52028058.0,Chhattisgarh,28058.0,STATE_CT,7.0,MP/Chhattisgarh,Chhattisgarh,Chhattisgarh,CT,chhattisgarh,ind,cg,59582.0,False
+7,52033963.0,Chhattisgarh v2,28058.0,STATE_CG,7.0,MP/Chhattisgarh,Chhattisgarh,,CG,chhattisgarh v2,,,,False
+8,52024802.0,Dadra And Nagar Haveli,24802.0,STATE_DN,8.0,Guj / D&D / DNH,,,DH,dadra and nagar haveli,,,,False
+9,,,,,,,,,,dadra and nagar haveli and daman and diu,ind,dh,37421.0,False
+10,52024799.0,Daman And Diu,24799.0,STATE_DD,9.0,Guj / D&D / DNH,,,DD,daman and diu,,,,False
+11,52009999.0,Delhi,9999.0,STATE_DL,10.0,Delhi,Delhi,Delhi / The Government of NCT,DL,delhi,ind,dl,9999.0,True
+12,52023819.0,Goa,23819.0,STATE_GA,11.0,Mah / Goa,Goa,Goa,GA,goa,ind,ga,23819.0,True
+13,52010002.0,Gujarat,10002.0,STATE_GJ,12.0,Guj / D&D / DNH,Gujarat,Gujarat,GJ,gujarat,ind,gj,10002.0,True
+14,52010008.0,Haryana,10008.0,STATE_HR,13.0,Har/HP/J&K,Haryana,Haryana,HR,haryana,ind,hr,10008.0,True
+15,52024787.0,Himachal Pradesh,24787.0,STATE_HP,14.0,Har/HP/J&K,Himachal Pradesh,Himachal Pradesh,HP,himachal pradesh,ind,hp,24787.0,True
+16,,,,,,,,,,india,ind,?,297.0,False
+17,52018194.0,Jammu And Kashmir,18194.0,STATE_JK,15.0,Har/HP/J&K,Jammu and Kashmir,,JK,jammu and kashmir,ind,jk,18194.0,True
+18,52028057.0,Jharkhand,28057.0,STATE_JH,16.0,Bihar/Jharkhand,Jharkhand,Jharkhand,JH,jharkhand,ind,jh,28057.0,True
+19,52010011.0,Karnataka,10011.0,STATE_KA,17.0,Karnataka,Karnataka,Karnataka,KA,karnataka,ind,ka,10011.0,True
+20,52010018.0,Kerala,10018.0,STATE_KL,18.0,Kerala,Kerala,Kerala,KL,kerala,ind,kl,10018.0,True
+21,,,,,,,,,,ladakh,ind,la,37046.0,False
+22,52024801.0,Lakshadweep,24801.0,STATE_LD,19.0,Others,,,LD,lakshadweep,ind,ld,24801.0,True
+23,52010027.0,Madhya Pradesh,10027.0,STATE_MP,20.0,MP/Chhattisgarh,Madhya Pradesh,Madhya Pradesh,MP,madhya pradesh,ind,mp,10027.0,True
+24,52001320.0,Maharashtra,1320.0,STATE_MH,21.0,Mah / Goa,Maharashtra,Maharashtra,MH,maharashtra,ind,mh,1320.0,True
+25,52024803.0,Manipur,24803.0,STATE_MN,22.0,Assam / North East / Sikkim,Manipur,Manipur,MN,manipur,ind,mn,24803.0,True
+26,52010026.0,Meghalaya,10026.0,STATE_ML,23.0,Assam / North East / Sikkim,Meghalaya,Meghalaya,ML,meghalaya,ind,ml,10026.0,True
+27,52024800.0,Mizoram,24800.0,STATE_MZ,24.0,Assam / North East / Sikkim,Mizoram,Mizoram,MZ,mizoram,ind,mz,24800.0,True
+28,52024792.0,Nagaland,24792.0,STATE_NL,25.0,Assam / North East / Sikkim,Nagaland,Nagaland,NL,nagaland,ind,nl,24792.0,True
+29,52010030.0,Odisha,10030.0,STATE_OR,26.0,Odisha,Orissa,Odisha / Orissa,OR,odisha,ind,od,59581.0,False
+30,52033964.0,Odisha v2,10030.0,STATE_OD,26.0,Odisha,Orissa,,OD,odisha v2,,,,False
+31,52010034.0,Puducherry,10034.0,STATE_PY,27.0,TN/Pondicherry,Puducherry,,PY,puducherry,ind,py,10034.0,True
+32,52010031.0,Punjab,10031.0,STATE_PB,28.0,Pun/Cha,Punjab,Punjab,PB,punjab,ind,pb,10031.0,True
+33,52010035.0,Rajasthan,10035.0,STATE_RJ,29.0,Rajasthan,Rajasthan,Rajasthan,RJ,rajasthan,ind,rj,10035.0,True
+34,52024804.0,Sikkim,24804.0,STATE_SK,30.0,Assam / North East / Sikkim,Sikkim,Sikkim,SK,sikkim,ind,sk,24804.0,True
+35,52010036.0,Tamil Nadu,10036.0,STATE_TN,31.0,TN/Pondicherry,Tamil Nadu,Tamil Nadu,TN,tamil nadu,ind,tn,10036.0,True
+36,52033962.0,Telangana,33962.0,STATE_TG,36.0,AP / Telangana,Telangana,,TG,telangana,ind,ts,59583.0,False
+37,52033965.0,Telangana v2,33962.0,STATE_TS,36.0,AP / Telangana,Telangana,,TS,telangana v2,,,,False
+38,52010043.0,Tripura,10043.0,STATE_TR,32.0,Assam / North East / Sikkim,Tripura,Tripura,TR,tripura,ind,tr,10043.0,True
+39,52010044.0,Uttar Pradesh,10044.0,STATE_UP,33.0,UP/Uttarakhand,Uttar Pradesh,Uttar Pradesh,UP,uttar pradesh,ind,up,10044.0,True
+40,52028102.0,Uttarakhand,28102.0,STATE_UT,34.0,UP/Uttarakhand,Uttarakhand,Uttarakhand,UT,uttarakhand,ind,uk,59584.0,False
+41,52033966.0,Uttarakhand v2,28102.0,STATE_UK,34.0,UP/Uttarakhand,Uttarakhand,,UK,uttarakhand v2,,,,False
+42,52001309.0,West Bengal,1309.0,STATE_WB,35.0,West Bengal,West Bengal,West Bengal,WB,west bengal,ind,wb,1309.0,True
